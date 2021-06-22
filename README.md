@@ -1,4 +1,5 @@
 # Kill or Steal
+ROB. SLAY. PLAY.
 >(2-4 PLAYERS)
 
 ![](image.png)
@@ -16,4 +17,4 @@
 >If both thieves are robbing a person that doesn’t have enough loot to split or managed to kill that person, they can choose to split the loot evenly or duel. Only one thief’s decision is needed to initiate the duel. Both thieves will rock, paper, scissors for the loot. Winner gets loot that satisfies the criteria while the loser will lose 1 health point. If the loser dies during the duel, the winner also get all of the loser’s loot as well
 
 ## Teamwork
->Teamwork is completely optional. A player can even use their defense card for another player by placing the player card of a friend instead of your own. Players can also give coins to other players at any time. Now go      out and make friends! 
+>Teamwork is completely optional. A player can even use their defense card for another player by placing the player card of a friend instead of your own. Players can also give coins to other players at any time. Now go out and make friends! 
